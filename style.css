@@ -1,0 +1,51 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.div_game
+{
+    float: left;
+}
+
+.div_game_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#game
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_instrunment
+{
+    float: right;
+}
+
+.div_instrunment_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#instrunment
+{
+    font-size: 23px;
+    margin: 15px;
+}
